@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\d.kaydashova\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\d.kaydashova\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CodingTheory.535087278.00" t="ExcludeRecursive" />
+    <e p="C:\Users\d.kaydashova\source\repos\CodingTheory" t="IncludeRecursive">
+      <e p="CodingTheory.py" t="Include" />
+      <e p="CodingTheory.pyproj" t="IncludeRecursive" />
+      <e p="CodingTheory.sln" t="IncludeFlat" />
+      <e p="FilesStorage" t="Include" />
+      <e p="LinerCodeSettings.py" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

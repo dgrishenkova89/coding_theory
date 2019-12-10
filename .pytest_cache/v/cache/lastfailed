@@ -1,0 +1,10 @@
+{
+  "tests/linearcodetest.py": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_code_decode": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_code_exception": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_decode": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_init_e_c_c": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_init_l_c": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_init_l_c_exception": true,
+  "tests/linearcodetest.py::LinearCodeTest::test_init_l_c_timeout": true
+}

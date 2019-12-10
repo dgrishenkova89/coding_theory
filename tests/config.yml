@@ -1,0 +1,4 @@
+coder-generator: Code_G_Matrix.txt
+decoder-parity-check: Decoder_H_Matrix.txt
+decoder-syndrome-decoding: Syndrome_Decoding_Table.txt
+timeout: 30

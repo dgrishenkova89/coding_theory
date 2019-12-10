@@ -1,0 +1,3 @@
+[
+  "tests/linearcodetest.py::LinearCodeTest::test_generate_syndrome_decoding_table"
+]

@@ -1,0 +1,3 @@
+coder-generator-test: Code_G_Matrix.txt
+decoder-parity-check-test: Decoder_H_Matrix.txt
+syndrome-decoding-test: Syndrome_Decoding_Table.txt
